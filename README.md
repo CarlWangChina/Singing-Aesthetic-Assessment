@@ -10,8 +10,6 @@
 
 **中文:** 由于版本维护和更新需要，本项目的代码、数据及模型权重已整合至统一的维护仓库中。请通过以下链接获取最新资源：
 
----
-
 ## 🔗 Resources / 资源链接
 
 * **Code Repository (GitHub):** [https://github.com/CarlWangChina/QwenFeat-Vocal-Score/tree/master](https://github.com/CarlWangChina/QwenFeat-Vocal-Score/tree/master)
