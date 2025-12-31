@@ -1,21 +1,26 @@
-MIT License
+Copyright (c) 2025 [The Project Author(s)]. All rights reserved.
 
-Copyright (c) 2025 Zihao Wang
+PROJECT: QwenFeat-Vocal-Score / Singing-Aesthetic-Assessment
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. LICENSE MODEL
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
+To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. OWNERSHIP
+All code, model weights, and documentation are the proprietary property of the project author(s).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. USAGE TERMS
+Under this license, you are free to share, copy, and redistribute the material in any medium or format, provided you follow these terms:
+- Attribution (BY): You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- Non-Commercial (NC): You may NOT use the material for commercial purposes. This includes, but is not limited to:
+    * Integration into commercial software or hardware.
+    * Use in for-profit karaoke systems or AI-based services.
+    * Reselling or redistributing for financial gain.
+- No-Derivatives (ND): If you remix, transform, or build upon the material, you may NOT distribute the modified material.
+
+4. COMMERCIAL LICENSING & INQUIRIES
+For permissions beyond the scope of this non-commercial license, or to apply for a commercial license, please contact:
+Email: 3156018231@qq.com
+
+5. ATTRIBUTION REQUIREMENT
+Any authorized use or reference must include this copyright notice and properly attribute the work to the original project.
