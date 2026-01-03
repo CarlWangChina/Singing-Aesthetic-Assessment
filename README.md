@@ -1,8 +1,3 @@
-# Singing-Aesthetic-Assessment
-
-**Assessing the Popularity of Singing Timbre with a Multimodal Large Foundation Model**
-
----
 
 ## 📢 Project Update / 项目更新说明
 
