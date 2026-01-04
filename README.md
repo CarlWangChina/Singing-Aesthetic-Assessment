@@ -1,4 +1,4 @@
-#[MOVED TO: https://github.com/CarlWangChina/QwenFeat-Vocal-Score]
+#MOVED TO: https://github.com/CarlWangChina/QwenFeat-Vocal-Score
 
 ## 📢 Project Update / 项目更新说明
 
